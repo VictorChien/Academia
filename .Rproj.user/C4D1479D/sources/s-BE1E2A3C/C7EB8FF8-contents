@@ -1,2 +1,0 @@
-blogdown::install_theme(theme = 'themefisher/academia-hugo',hostname="github.com",theme_example=T,update_config=T,update_hugo=T)
-blogdown:::serve_site()

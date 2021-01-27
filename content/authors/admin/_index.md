@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "files/cv.pdf"
+- url : "cv.pdf"
 #"https://drive.google.com/file/d/15mJmUesoCmOtoWh4wKwcd0oBKb_hTqZN/view?usp=sharing"
   label : "Download Resume"
 
