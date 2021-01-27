@@ -47,19 +47,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:Victor.Chien10@gmail.com"             #'#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:victor.chien@utexas.edu"             #'#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/victor-chien/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+- icon: github
+  icon_pack: fab
+  link: https://github.com/VictorChien
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/MoonRocks10
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/victorchien10/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/VictorChien
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below
 
