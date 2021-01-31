@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "cv.pdf"
+- url : "files/cv.pdf"
 #"https://drive.google.com/file/d/15mJmUesoCmOtoWh4wKwcd0oBKb_hTqZN/view?usp=sharing"
   label : "Download Resume"
 
@@ -37,7 +37,7 @@ education:
   courses:
   - course: B.S. in Neuroscience
     institution: The University of Texas at Austin
-    year: 2021
+    year: May 2021
 
 
 # Social/academia Networking
